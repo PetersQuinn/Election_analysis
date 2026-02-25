@@ -1,0 +1,3 @@
+category,n_docs,mean_words,median_words,mean_battleground_mentions,median_battleground_mentions,mean_battleground_per_1k,median_battleground_per_1k,mean_expanded_per_1k,median_expanded_per_1k
+post,10,1254.9,1234.5,2,0,1.3810341306319411,0,1.4435732175612717,0
+pre,10,2280.7,1828,7.6,2,2.9991024853437716,1.0578802033533448,4.07238032436699,2.276984955656431

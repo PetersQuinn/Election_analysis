@@ -1,0 +1,22 @@
+Key outputs saved:
+- output_tfidf_top_terms.csv (top TF–IDF terms per document)
+- output_similarity_heatmap.png (Pearson correlation heatmap)
+- output_most_similar_pairs.csv / output_least_similar_pairs.csv
+- output_syntactic_profile_table.csv (Week 05-style syntax measures)
+- output_syntax_doc_pre.txt / output_syntax_doc_post.txt (the two texts I parsed)
+- output_doc_length_boxplot.png (token count distribution)
+- output_syntax_measures_bar.png (syntax measures visual)
+
+Extra outputs added (Section 9):
+- output_state_density_summary_by_category.csv
+- output_state_density_by_doc.csv
+- output_battleground_density_boxplot.png
+- output_battleground_state_breakdown.csv
+- output_battleground_state_share.png
+- output_battleground_state_total_mentions.png
+- output_lexical_index_by_doc.csv
+- output_lexical_index_summary_by_category.csv
+- output_forecast_vs_explanation_scatter.png
+- output_explanation_minus_forecast_boxplot.png
+- output_lexical_index_by_outlet_category.csv
+- output_outlet_net_shift.png

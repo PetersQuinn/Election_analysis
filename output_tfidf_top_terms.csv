@@ -1,0 +1,301 @@
+doc_id,term,tfidf,category,outlet,date,date_parsed
+post_01_guardian_trump_underestimated.txt,guardian,11.709269960975831,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,crosby,7.8061799739838875,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,averages,7.224719895935548,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,polling,5.192746210115122,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,polls,5.11750992628768,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,errors,5,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,high-quality,4,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,swing,3.1058824946289896,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,error,2.614393726401688,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,ranged,2.6020599913279625,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,aapor,2.6020599913279625,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,underestimated,2.4717262228329564,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,though,1.8174611735402928,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,point,1.806179973983887,post,Guardian,11/27/2024,2024-11-27
+post_01_guardian_trump_underestimated.txt,counted,1.6478174818886375,post,Guardian,11/27/2024,2024-11-27
+post_02_northwestern_2024_election.txt,ipr,9.107209969647869,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,thurston,6.505149978319906,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,finkel,6.505149978319906,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,democracy,6.367040138752602,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,nisbet,5.204119982655925,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,scientist,4,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,explained,4,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,argued,4,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,harbridge-yong,3.9030899869919438,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,policies,3.295634963777275,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,moral,3,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,strategy,3,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,understand,2.7958800173440754,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,conservatives,2.6020599913279625,post,Northwestern,11/20/2024,2024-11-20
+post_02_northwestern_2024_election.txt,intended,2.6020599913279625,post,Northwestern,11/20/2024,2024-11-20
+post_03_abc_polls_underestimate.txt,pollsters,12.58146007804834,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,polls,7.52574989159953,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,rdd,5.204119982655925,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,error,4.705908707523038,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,bias,4.193820026016113,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,pollster,3.494850021680094,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,missed,3,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,statistical,3,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,selzer,3,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,explore,2.6020599913279625,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,forecasting,2.6020599913279625,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,selzer's,2.6020599913279625,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,recalled,2.6020599913279625,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,weighting,2.6020599913279625,post,abcNEWS,11/8/2024,2024-11-08
+post_03_abc_polls_underestimate.txt,precision,2.6020599913279625,post,abcNEWS,11/8/2024,2024-11-08
+post_04_silver_polls_underperform.txt,polls,15.05149978319906,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,bias,11.183520069376302,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,error,10.98045365088709,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,pollsters,9.785580060704264,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,pollster,6.29073003902417,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,selzer,6,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,polling,5.712020831126635,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,correctly,5.204119982655925,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,firms,4.943452445665913,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,cycle,4.705908707523038,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,average,4.67347158910361,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,performance,4.559319556497244,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,accuracy,4.214419939295737,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,database,4.119543704721594,post,Silver Bulletin,2/17/2025,2025-02-17
+post_04_silver_polls_underperform.txt,races,4.10338760084752,post,Silver Bulletin,2/17/2025,2025-02-17
+post_05_politico_trump_turnout.txt,skipped,5.204119982655925,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,nonvoters,3.9030899869919438,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,percent,3.3752850365748293,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,turnout,3.295634963777275,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,survey,3.121087376021907,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,pew,3,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,stayed,2.6020599913279625,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,traditionally,2.6020599913279625,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,eligible,2.4717262228329564,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,electorate,2.4082399653118496,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,home,2,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,files,2,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,citizens,2,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,voted,1.8237278225988975,post,Politico,6/26/2025,2025-06-26
+post_05_politico_trump_turnout.txt,received,1.806179973983887,post,Politico,6/26/2025,2025-06-26
+post_06_AP_Democrats_down.txt,party,4.1159061538571775,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,ap-norc,3.9030899869919438,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,frustrated,3.9030899869919438,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,trust,3.494850021680094,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,adults,3.295634963777275,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,favorability,3,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,views,2.7355917338983464,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,negative,2.4082399653118496,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,americans,2.218487496163564,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,haven’t,2.0969100130080567,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,health,2.0969100130080567,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,handle,2.0969100130080567,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,lack,2,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,positively,2,post,AP News,2/18/2026,2026-02-18
+post_06_AP_Democrats_down.txt,one-third,2,post,AP News,2/18/2026,2026-02-18
+post_07_guardian_no_autopsy.txt,dnc,5.204119982655925,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,review,4.119543704721594,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,distraction,3.9030899869919438,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,release,3,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,autopsy,2.6020599913279625,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,martin,2.6020599913279625,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,hinojosa,2.6020599913279625,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,official,2.4717262228329564,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,committee,2.0969100130080567,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,lessons,2,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,publicly,2,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,report,1.8237278225988975,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,communications,1.6478174818886375,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,year’s,1.6478174818886375,post,Guardian,12/18/2025,2025-12-18
+post_07_guardian_no_autopsy.txt,forward,1.6478174818886375,post,Guardian,12/18/2025,2025-12-18
+post_08_abc_close_no_landslide.txt,mandate,10,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,trump's,9.107209969647869,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,landslide,7.8061799739838875,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,govern,5.204119982655925,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,azari,5.204119982655925,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,tipping-point,4,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,decisive,3.9030899869919438,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,closeness,3.9030899869919438,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,big,3.6601512169623636,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,electoral,3.612359947967774,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,won,3.5495799938617023,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,president-elect,3.295634963777275,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,certainly,3,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,mandates,3,post,abcNEWS,11/26/2024,2024-11-26
+post_08_abc_close_no_landslide.txt,relatively,2.7958800173440754,post,abcNEWS,11/26/2024,2024-11-26
+post_09_brookings_why_win.txt,campaign,4.515449934959718,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,harris,3.5495799938617023,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,evidence,3,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,whose,3,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,defeat,3,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,anecdotal,2.6020599913279625,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,tactical,2.6020599913279625,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,price,2.6020599913279625,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,public’s,2.6020599913279625,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,abandoned,2.6020599913279625,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,abortion,2.4082399653118496,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,biden’s,2.279659778248622,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,share,2.0915149811213505,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,causes,2,post,Brookings,11/6/2024,2024-11-06
+post_09_brookings_why_win.txt,theory,2,post,Brookings,11/6/2024,2024-11-06
+post_10_prri_analysis_vote.txt,christian,24.719569917615644,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,nationalism,23.418539921951663,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,protestants,15.612359947967775,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,confident,13.1825398551091,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,report,10.030503024293937,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,voters,9.400271261781473,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,rejecters,9.107209969647869,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,hispanic,8.387640052032227,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,express,8.239087409443188,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,white,7.976112183167095,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,voting,7.958800173440752,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,church,7.8061799739838875,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,adherents,7.8061799739838875,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,sympathizers,7.8061799739838875,post,NA,NA,NA
+post_10_prri_analysis_vote.txt,skeptics,7.8061799739838875,post,NA,NA,NA
+pre_01_abc_fewer_polls.txt,pollsters,16.775280104064453,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,polls,16.556649761518965,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,partisan,11.503332396167428,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,cycles,10.837079843903323,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,surveys,8.387640052032227,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,cycle,7.320302433924727,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,number,6.797423688644389,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,prolific,6.505149978319906,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,competitive,6.29073003902417,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,released,6,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,bit,6,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,drop,4.943452445665913,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,previous,4.816479930623699,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,polling,4.413834278597854,pre,abcNEWS,10/28/2024,2024-10-28
+pre_01_abc_fewer_polls.txt,pollster,4.193820026016113,pre,abcNEWS,10/28/2024,2024-10-28
+pre_02_guardian_hedgehog_porcupine.txt,rhodes,7.8061799739838875,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,haley,7,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,hudson,5.204119982655925,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,primary,5.0152515121469685,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,rematch,5,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,uncommitted,4,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,argodale,3.9030899869919438,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,charleston,3.9030899869919438,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,biden-trump,3.9030899869919438,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,general,3.647455645197795,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,south,3.494850021680094,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,options,3.295634963777275,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,november,3.1372724716820257,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,carolina,3.010299956639812,pre,Guardian,3/9/2024,2024-03-09
+pre_02_guardian_hedgehog_porcupine.txt,supporter,2.6020599913279625,pre,Guardian,3/9/2024,2024-03-09
+pre_03_guardian_sleepwalking.txt,told,3.9030899869919438,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,substantially,3.9030899869919438,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,he’s,3.295634963777275,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,actual,3,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,agenda,2.7958800173440754,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,rest,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,weekend,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,tyler,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,tells,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,surely,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,exception,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,lizza,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,he’ll,2.6020599913279625,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,old,2.4717262228329564,pre,Guardian,3/6/2024,2024-03-06
+pre_03_guardian_sleepwalking.txt,point,2.4082399653118496,pre,Guardian,3/6/2024,2024-03-06
+pre_04_abc_pennsylvania.txt,pennsylvania,14.117726122569115,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,percent,7.529482004666927,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,fracking,6.505149978319906,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,state’s,5.591760034688151,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,keystone,5.204119982655925,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,philadelphia,5.204119982655925,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,rep,5.204119982655925,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,statewide,5,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,nationally,4.193820026016113,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,seat,4,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,toss-up,3.9030899869919438,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,counties,3.9030899869919438,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,pennsylvania’s,3.9030899869919438,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,pennsylvanians,3.9030899869919438,pre,abcNEWS,10/29/2024,2024-10-29
+pre_04_abc_pennsylvania.txt,casey,3.9030899869919438,pre,abcNEWS,10/29/2024,2024-10-29
+pre_05_guardian_six_months.txt,he’s,4.943452445665913,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,they’re,4.119543704721594,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,gaza,4.119543704721594,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,ban,4,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,ukraine,4,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,attack,4,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,luntz,3.9030899869919438,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,western,3.9030899869919438,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,israel,3.9030899869919438,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,it’s,3.3752850365748293,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,abortion,3.010299956639812,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,fight,3,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,i’m,3,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,dangerous,3,pre,Guardian,5/5/2024,2024-05-05
+pre_05_guardian_six_months.txt,going,2.8560104155633175,pre,Guardian,5/5/2024,2024-05-05
+pre_06_gallup_final_indicators.txt,favorable,11.709269960975831,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,favorably,7.8061799739838875,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,rating,5.969100130080564,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,oct,5.204119982655925,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,gallup’s,5,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,independents,4.705908707523038,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,higher,4.183029962242701,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,gallup,4.119543704721594,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,favorability,4,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,satisfaction,4,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,vice-presidential,4,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,viewing,3.9030899869919438,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,vance,3.9030899869919438,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,economy,3.121087376021907,pre,Gallup,10/30/2024,2024-10-30
+pre_06_gallup_final_indicators.txt,walz,3,pre,Gallup,10/30/2024,2024-10-30
+pre_07_american_one_vote.txt,votes,25.96373105057561,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,local,18.125992300775014,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,senate,17.25499859425114,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,cast,15.957618447740353,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,law,12,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,mcconnell,11.709269960975831,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,rock,11.709269960975831,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,decided,11.183520069376302,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,school,11,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,determined,11,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,district,10.23501985257536,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,handful,10,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,total,9.886904891331826,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,medicaid,9.107209969647869,pre,American Progress,9/16/2024,2024-09-16
+pre_07_american_one_vote.txt,clarke,9.107209969647869,pre,American Progress,9/16/2024,2024-09-16
+pre_08_independent_independent_voters.txt,rfk,5.204119982655925,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,independent,4.705908707523038,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,disapprove,3.9030899869919438,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,responses,2.6020599913279625,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,responded,2.6020599913279625,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,bloc,2.6020599913279625,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,two-party,2.6020599913279625,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,dissatisfied,2,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,concerns,1.806179973983887,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,play,1.6478174818886375,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,system,1.6478174818886375,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,asked,1.5917600346881504,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,candidates,1.3310924976981384,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,gauge,1.3010299956639813,pre,Independent Center,NA,NA
+pre_08_independent_independent_voters.txt,explored,1.3010299956639813,pre,Independent Center,NA,NA
+pre_09_brennan_undermine_election.txt,officials,43.667163270048896,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,doj,32.52574989159953,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,law,30,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,federal,26.666816009297218,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,administration,17.45973974851091,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,systems,15.612359947967775,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,prosecution,15.612359947967775,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,cisa,15.612359947967775,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,executive,15,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,voting,14.72378032086539,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,voter,14.58982258079118,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,fraud,13.010299956639813,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,guidelines,11.709269960975831,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,legal,11.534722373220463,pre,Brennan Center,8/5/2024,2024-08-05
+pre_09_brennan_undermine_election.txt,rights,11.183520069376302,pre,Brennan Center,8/5/2024,2024-08-05
+pre_10_gallup_economy_importance.txt,extremely,8.428839878591473,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,climate,5.7673611866102314,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,economy,5.548599779594501,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,issues,5.54621874040891,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,healthcare,5.204119982655925,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,gun,4,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,relations,4,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,terrorism,3.9030899869919438,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,voters,3.7794905073142004,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,agree,3.612359947967774,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,abortion,3.612359947967774,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,handle,3.494850021680094,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,majorities,3.295634963777275,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,five,3.1915236895480708,pre,Gallup,10/9/2024,2024-10-09
+pre_10_gallup_economy_importance.txt,issue,3.183520069376301,pre,Gallup,10/9/2024,2024-10-09

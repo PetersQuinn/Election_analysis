@@ -1,0 +1,6 @@
+pair,doc_a,doc_b,r
+post_03_abc_polls_underestimate.txt || post_04_silver_polls_underperform.txt,post_03_abc_polls_underestimate.txt,post_04_silver_polls_underperform.txt,0.716
+pre_02_guardian_hedgehog_porcupine.txt || pre_03_guardian_sleepwalking.txt,pre_02_guardian_hedgehog_porcupine.txt,pre_03_guardian_sleepwalking.txt,0.63
+post_04_silver_polls_underperform.txt || pre_01_abc_fewer_polls.txt,post_04_silver_polls_underperform.txt,pre_01_abc_fewer_polls.txt,0.624
+pre_02_guardian_hedgehog_porcupine.txt || pre_05_guardian_six_months.txt,pre_02_guardian_hedgehog_porcupine.txt,pre_05_guardian_six_months.txt,0.586
+pre_03_guardian_sleepwalking.txt || pre_05_guardian_six_months.txt,pre_03_guardian_sleepwalking.txt,pre_05_guardian_six_months.txt,0.572

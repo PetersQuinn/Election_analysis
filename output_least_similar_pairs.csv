@@ -1,0 +1,6 @@
+pair,doc_a,doc_b,r
+post_06_AP_Democrats_down.txt || pre_09_brennan_undermine_election.txt,post_06_AP_Democrats_down.txt,pre_09_brennan_undermine_election.txt,-0.004
+post_10_prri_analysis_vote.txt || pre_01_abc_fewer_polls.txt,post_10_prri_analysis_vote.txt,pre_01_abc_fewer_polls.txt,-0.004
+pre_01_abc_fewer_polls.txt || pre_08_independent_independent_voters.txt,pre_01_abc_fewer_polls.txt,pre_08_independent_independent_voters.txt,0.003
+pre_01_abc_fewer_polls.txt || pre_09_brennan_undermine_election.txt,pre_01_abc_fewer_polls.txt,pre_09_brennan_undermine_election.txt,0.007
+pre_01_abc_fewer_polls.txt || pre_02_guardian_hedgehog_porcupine.txt,pre_01_abc_fewer_polls.txt,pre_02_guardian_hedgehog_porcupine.txt,0.009

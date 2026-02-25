@@ -1,0 +1,15 @@
+category,state,total_mentions,docs_with_mention,share
+post,arizona,2,2,0.1
+post,georgia,3,3,0.15
+post,michigan,2,1,0.1
+post,nevada,1,1,0.05
+post,north carolina,1,1,0.05
+post,pennsylvania,6,2,0.3
+post,wisconsin,5,2,0.25
+pre,arizona,5,4,0.06578947368421052
+pre,georgia,4,4,0.05263157894736842
+pre,michigan,8,5,0.10526315789473684
+pre,nevada,7,4,0.09210526315789473
+pre,north carolina,10,4,0.13157894736842105
+pre,pennsylvania,33,4,0.4342105263157895
+pre,wisconsin,9,4,0.11842105263157894
